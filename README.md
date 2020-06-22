@@ -62,6 +62,8 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
  
  ![msedge_wjiadvPYHa](https://user-images.githubusercontent.com/51842123/85250774-27065880-b41d-11ea-94fc-bcb9c2cc83e8.png)
  
+ <p>En la página de inicio de la página virtual se mostrarán los productos más vendidos y los productos con ofertas. </p>
+ 
  <p>Para poder realizar un pedido el cliente debe iniciar sesión o crear una nueva cuenta.</p>
  
  ![msedge_QeiEbgkKVI](https://user-images.githubusercontent.com/51842123/85250882-6a60c700-b41d-11ea-9e2c-e83b818bae0c.png)
