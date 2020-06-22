@@ -15,6 +15,12 @@
  <p>¿Cuál es su público objetivo? </p>
  <p>El público objetivo que tomamos en cuenta son los niños y niñas </p>
  <p>¿Qué métodos de pago acepta?</p>
+ <p>Transferencia Bancaria
+Con el único fin de proporcionarle todas las alternativas de pago TOYSKIDS proporciona a sus clientes los datos de nuestra cuenta bancaria para que puedan proceder al pago del pedido, que se gestionará una vez se confirme dicho pago. Este proceso puede ser realizado desde cualquier entidad bancaria.</p>
+ <p>Contra Reembolso
+Para TOYSKIDS es importante brindarle la mayor seguridad en su compra, por tal motivo ponemos a su disposición el método de pago «Contra Rembolso», donde usted no cancela el monto total de la compra hasta que reciba en su hogar sus productos. La entrega será personal y puede tomar el papel de intermediario (medio de transporte) nuestra empresa o si gusta cualquier transporte particular.</p>
+ <p>PayPal
+Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a su cuenta PayPal y, cuando quieras pagar, simplemente inicia sesión con tu correo electrónico y contraseña eligiendo la tarjeta que deseas usar para hacer el pago. Manteniendo de este modo absoluta confidencialidad con sus datos personales.</p>
  <p>¿Cuáles son sus proveedores principales? </p>
  <ul>
   <li>Mattel</li>
