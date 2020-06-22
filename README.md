@@ -29,19 +29,31 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
   <li>HotWheels</li>
   <li>Lego </li>
  </ul>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
- <p></p>
+ <p>Ubicación física de la empresa, (sucursales, bodegas, oficinas, etc) (mapas de google).</p>
+ <p>El formato de la vista para las sucursales es el anterior, actualmente tenemos sucursales en Quito, Guayaquil y Cuenca.
+</p>
+ <p>Formulario de contacto (debe enviar un correo)</p>
+ <p>Además, la tienda virtual debe presentar sus productos organizados por categorías. Dentro de la Juguetería contamos con las siguientes categorías:</p>
+<ul>
+  <li>Ofertas</li>
+  <li>Especial para Niños</li>
+  <li>Especial para Niñas</li>
+  <li>Juguetes de Mesa</li>
+  <li>Juguetes de Construcción</li>
+  <li>Munecas Barbie</li>
+  <li>Carros de Juguetes</li>
+  <li>Carros de Juguetes</li>
+  <li>Robots</li>
+  <li>Legos</li>
+  <li>Puzzles</li>
+ </ul>
+ <p>La tienda debe tener ingresado al menos 20 productos con toda su información (descripción, fotografías, precios).</p>
+ <p>Los productos cada uno contiene con la imagen para su ilustración y con los precios respectivos de cada producto.</p>
+ 
+ <p>Para poder realizar un pedido el cliente debe iniciar sesión o crear una nueva cuenta.</p>
+ 
+ <p>La tienda virtual debe ser desplegada en un servidor en la nube (se debe buscar la opción gratuita y no es necesario que tenga un dominio específico).</p>
+<p>Nuestra Web: http://34.106.54.133/</p> 
  <p>RESULTADO(S) OBTENIDO(S): </p>
   <ul>
   <li>Los estudiantes son capaces de elaborar y gestionar una página web a través del framework Word Press.</li>
