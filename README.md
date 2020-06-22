@@ -49,7 +49,9 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
  </ul>
  <p>La tienda debe tener ingresado al menos 20 productos con toda su información (descripción, fotografías, precios).</p>
  <p>Los productos cada uno contiene con la imagen para su ilustración y con los precios respectivos de cada producto.</p>
+ 
  ![msedge_wjiadvPYHa](https://user-images.githubusercontent.com/51842123/85250774-27065880-b41d-11ea-94fc-bcb9c2cc83e8.png)
+ 
  <p>Para poder realizar un pedido el cliente debe iniciar sesión o crear una nueva cuenta.</p>
  
  <p>La tienda virtual debe ser desplegada en un servidor en la nube (se debe buscar la opción gratuita y no es necesario que tenga un dominio específico).</p>
