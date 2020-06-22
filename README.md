@@ -29,7 +29,7 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
   <li>HotWheels</li>
   <li>Lego </li>
  </ul>
- <p>Ubicación física de la empresa, (sucursales, bodegas, oficinas, etc) (mapas de google).</p>
+ <p><b>Ubicación física de la empresa, (sucursales, bodegas, oficinas, etc) (mapas de google).</b></p>
  
  ![msedge_ne0gUQZnfL](https://user-images.githubusercontent.com/51842123/85250943-9bd99280-b41d-11ea-8132-55d7fa5e3616.png)
  
@@ -39,11 +39,11 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
  
  <p>El formato de la vista para las sucursales es el anterior, actualmente tenemos sucursales en Quito, Guayaquil y Cuenca.</p>
  
- <p>Formulario de contacto (debe enviar un correo)</p>
+ <p><b>Formulario de contacto (debe enviar un correo)</b></p>
  
  ![msedge_KuivxPvv85](https://user-images.githubusercontent.com/51842123/85251151-2de19b00-b41e-11ea-93e8-88f112ac1732.jpg)
  
- <p>Además, la tienda virtual debe presentar sus productos organizados por categorías. Dentro de la Juguetería contamos con las siguientes categorías:</p>
+ <p><b>Además, la tienda virtual debe presentar sus productos organizados por categorías. Dentro de la Juguetería contamos con las siguientes categorías:</b></p>
 <ul>
   <li>Ofertas</li>
   <li>Especial para Niños</li>
@@ -57,20 +57,20 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
   <li>Legos</li>
   <li>Puzzles</li>
  </ul>
- <p>La tienda debe tener ingresado al menos 20 productos con toda su información (descripción, fotografías, precios).</p>
+ <p><b>La tienda debe tener ingresado al menos 20 productos con toda su información (descripción, fotografías, precios).</b></p>
  <p>Los productos cada uno contiene con la imagen para su ilustración y con los precios respectivos de cada producto.</p>
  
  ![msedge_wjiadvPYHa](https://user-images.githubusercontent.com/51842123/85250774-27065880-b41d-11ea-94fc-bcb9c2cc83e8.png)
  
- <p>En la página de inicio de la página virtual se mostrarán los productos más vendidos y los productos con ofertas. </p>
+ <p><b>En la página de inicio de la página virtual se mostrarán los productos más vendidos y los productos con ofertas. </b></p>
  
  ![msedge_Zq8PWLUDHb](https://user-images.githubusercontent.com/51842123/85251313-a183a800-b41e-11ea-9614-adaab3533ef8.png)
  
- <p>Para poder realizar un pedido el cliente debe iniciar sesión o crear una nueva cuenta.</p>
+ <p><b>Para poder realizar un pedido el cliente debe iniciar sesión o crear una nueva cuenta.</b></p>
  
  ![msedge_QeiEbgkKVI](https://user-images.githubusercontent.com/51842123/85250882-6a60c700-b41d-11ea-9e2c-e83b818bae0c.png)
  
- <p>La tienda virtual debe ser desplegada en un servidor en la nube (se debe buscar la opción gratuita y no es necesario que tenga un dominio específico).</p>
+ <p><b>La tienda virtual debe ser desplegada en un servidor en la nube (se debe buscar la opción gratuita y no es necesario que tenga un dominio específico).</b></p>
 <p>Nuestra Web: http://34.106.54.133/</p> 
  <p>RESULTADO(S) OBTENIDO(S): </p>
   <ul>
