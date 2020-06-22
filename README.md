@@ -9,7 +9,7 @@
  
  <p>Base De Datos</p>
  <p>Nombre de la base de datos: wordpress</p>
- ![Alt text](https://i.imgur.com/b8Q31H9.png
+ ![Alt text](https://i.imgur.com/b8Q31H9.png)
  ![Alt text](https://i.imgur.com/KdXw0rM.png)
  ![Alt text](https://i.imgur.com/yTgxOTP.png)
  ![Alt text](https://i.imgur.com/yLpXHCj.png)
