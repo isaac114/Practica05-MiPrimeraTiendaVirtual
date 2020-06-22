@@ -9,7 +9,7 @@
  
  <p>Base De Datos</p>
  <p>Nombre de la base de datos: wordpress</p>
- ![Alt text](https://i.imgur.com/b8Q31H9.png)
+ ![Alt text](https://i.imgur.com/Jda8ns7.png)
  <p>¿A qué se dedica la empresa?</p>
  <p>La empresa se dedica a vender productos de una juguetería por si no sabes qué juguete comprar, echa un vistazo a nuestras sugerencias de juguetes clasificados por categorías para niños y niñas. También contamos con los juguetes de mesa, construcción, Princesas, Legos, robots y carros todo disponible a cualquier a través de nuestra tienda de Juguetería online.</p>
  <p>¿Cuál es su público objetivo? </p>
