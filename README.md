@@ -35,6 +35,8 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
  
  ![msedge_yx3X2fcpAy](https://user-images.githubusercontent.com/51842123/85251015-cdeaf480-b41d-11ea-8530-fa68df943a30.png)
  
+ ![msedge_MV4Gj1Qlrp](https://user-images.githubusercontent.com/51842123/85251065-f2df6780-b41d-11ea-977f-68c8b0813050.png)
+ 
  <p>El formato de la vista para las sucursales es el anterior, actualmente tenemos sucursales en Quito, Guayaquil y Cuenca.
 </p>
  <p>Formulario de contacto (debe enviar un correo)</p>
