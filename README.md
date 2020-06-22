@@ -54,6 +54,8 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
  
  <p>Para poder realizar un pedido el cliente debe iniciar sesión o crear una nueva cuenta.</p>
  
+ ![msedge_QeiEbgkKVI](https://user-images.githubusercontent.com/51842123/85250882-6a60c700-b41d-11ea-9e2c-e83b818bae0c.png)
+ 
  <p>La tienda virtual debe ser desplegada en un servidor en la nube (se debe buscar la opción gratuita y no es necesario que tenga un dominio específico).</p>
 <p>Nuestra Web: http://34.106.54.133/</p> 
  <p>RESULTADO(S) OBTENIDO(S): </p>
