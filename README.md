@@ -5,9 +5,7 @@
   <li>Crear sitios web aplicando estándares actuales. </li>
   <li>Desarrollar aplicaciones web interactivas y amigables al usuario..</li>
  </ul>
- 
- ![Alt text]()
- ![Alt text]()
+
  
  <p>Base De Datos</p>
  <p>Nombre de la base de datos: wordpress</p>
