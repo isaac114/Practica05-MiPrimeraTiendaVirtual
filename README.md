@@ -30,6 +30,9 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
   <li>Lego </li>
  </ul>
  <p>Ubicación física de la empresa, (sucursales, bodegas, oficinas, etc) (mapas de google).</p>
+ 
+ ![msedge_ne0gUQZnfL](https://user-images.githubusercontent.com/51842123/85250943-9bd99280-b41d-11ea-8132-55d7fa5e3616.png)
+ 
  <p>El formato de la vista para las sucursales es el anterior, actualmente tenemos sucursales en Quito, Guayaquil y Cuenca.
 </p>
  <p>Formulario de contacto (debe enviar un correo)</p>
