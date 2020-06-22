@@ -37,9 +37,12 @@ Este método de pago le da la posibilidad de asociar sus tarjetas de crédito a 
  
  ![msedge_MV4Gj1Qlrp](https://user-images.githubusercontent.com/51842123/85251065-f2df6780-b41d-11ea-977f-68c8b0813050.png)
  
- <p>El formato de la vista para las sucursales es el anterior, actualmente tenemos sucursales en Quito, Guayaquil y Cuenca.
-</p>
+ <p>El formato de la vista para las sucursales es el anterior, actualmente tenemos sucursales en Quito, Guayaquil y Cuenca.</p>
+ 
  <p>Formulario de contacto (debe enviar un correo)</p>
+ 
+ ![msedge_KuivxPvv85](https://user-images.githubusercontent.com/51842123/85251151-2de19b00-b41e-11ea-93e8-88f112ac1732.jpg)
+ 
  <p>Además, la tienda virtual debe presentar sus productos organizados por categorías. Dentro de la Juguetería contamos con las siguientes categorías:</p>
 <ul>
   <li>Ofertas</li>
